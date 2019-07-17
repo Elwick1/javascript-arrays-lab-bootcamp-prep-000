@@ -20,6 +20,8 @@ function destructivelyRemoveFirstKitten(name, array) {
   return array
 }
 
+const.kittens [ ]
+
 function appendKitten(name, array) {
   
   return array
