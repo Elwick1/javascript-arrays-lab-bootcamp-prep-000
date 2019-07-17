@@ -20,10 +20,9 @@ function destructivelyRemoveFirstKitten(name, array) {
   return array
 }
 
-const.kittens = ["Milo", "Otis", "Garfield"];
 
 function appendKitten(name, array) {
-  
+  const.name
   return array
 }
 
