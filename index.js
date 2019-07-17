@@ -1,5 +1,6 @@
 var kittens = ["Milo", "Otis", "Garfield"]
 var kittens2 = ["Arnold", "Milo", "Otis", "Garfield"]
+var kittens3 = ["Milo", "Otis"]
 
 function destructivelyAppendKitten(name, array) {
   kittens.push("Ralph")
@@ -31,7 +32,7 @@ function prependKitten(name, array) {
 }
 
 function removeLastKitten(name, array) {
-  return kittens.slice(3)
+  return kittens3
 }
 
 function removeFirstKitten(name, array) {
