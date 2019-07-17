@@ -36,6 +36,6 @@ function removeLastKitten(name, array) {
 }
 
 function removeFirstKitten(name, array) {
-  kittens.unshift()
+  kittens.concat(1)
   return array
 }
