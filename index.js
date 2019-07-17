@@ -1,3 +1,3 @@
-var kittens = [] //define your array here
+var kittens = ["milo", "otis", "garfield"]
 
-// Add your functions and code here
+function 
