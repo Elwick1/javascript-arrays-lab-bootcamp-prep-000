@@ -26,7 +26,7 @@ function appendKitten(name, array) {
 
 function prependKitten(name, array) {
   const kittens2 = kittens.concat("Arnold")
-  return kittens.concat("Arnold")
+  return kittens2
 }
 
 function removeLastKitten(name, array) {
