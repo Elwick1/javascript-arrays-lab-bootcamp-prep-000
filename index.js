@@ -22,7 +22,7 @@ function destructivelyRemoveFirstKitten(name, array) {
 
 
 function appendKitten(name, array) {
-  const.kittens2 = 
+  const.kittens2 = kittens.concat 
   return array
 }
 
