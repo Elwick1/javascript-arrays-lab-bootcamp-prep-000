@@ -25,7 +25,7 @@ function appendKitten(name, array) {
 }
 
 function prependKitten(name, array) {
-  console.log (kittens.concat("Arnold"))
+  console.log ("Arnold".concat(kittens))
   return kittens
 }
 
