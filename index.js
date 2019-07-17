@@ -36,5 +36,5 @@ function removeLastKitten(name, array) {
 
 function removeFirstKitten(name, array) {
   kittens.concat(1)
-  return array
+  return 
 }
